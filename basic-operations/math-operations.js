@@ -1,3 +1,3 @@
-export function mathOperations (a, b) {
+export function add (a, b) {
 
 }
